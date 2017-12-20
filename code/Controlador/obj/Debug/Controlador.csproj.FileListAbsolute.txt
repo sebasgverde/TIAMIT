@@ -1,0 +1,35 @@
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\Controlador\bin\Debug\Controlador.dll
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\Controlador\bin\Debug\Controlador.pdb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\Controlador\bin\Debug\Modelo.dll
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\Controlador\bin\Debug\Modelo.pdb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\Controlador\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\Controlador\obj\Debug\Controlador.dll
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\Controlador\obj\Debug\Controlador.pdb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\Controlador\bin\Debug\Controlador.dll
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\Controlador\bin\Debug\Controlador.pdb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\Controlador\bin\Debug\Modelo.dll
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\Controlador\bin\Debug\Modelo.pdb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\Controlador\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\Controlador\obj\Debug\Controlador.dll
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\Controlador\obj\Debug\Controlador.pdb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\Controlador\bin\Debug\Controlador.dll
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\Controlador\bin\Debug\Controlador.pdb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\Controlador\bin\Debug\Modelo.dll
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\Controlador\bin\Debug\Modelo.pdb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\Controlador\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\Controlador\obj\Debug\Controlador.dll
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\Controlador\obj\Debug\Controlador.pdb
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\Controlador\bin\Debug\Controlador.dll
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\Controlador\bin\Debug\Controlador.pdb
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\Controlador\bin\Debug\Modelo.dll
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\Controlador\bin\Debug\Modelo.pdb
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\Controlador\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\Controlador\obj\Debug\Controlador.dll
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\Controlador\obj\Debug\Controlador.pdb
+D:\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\Controlador\bin\Debug\Controlador.dll
+D:\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\Controlador\bin\Debug\Controlador.pdb
+D:\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\Controlador\bin\Debug\Modelo.dll
+D:\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\Controlador\bin\Debug\Modelo.pdb
+D:\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\Controlador\obj\Debug\Controlador.csprojResolveAssemblyReference.cache
+D:\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\Controlador\obj\Debug\Controlador.dll
+D:\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\Controlador\obj\Debug\Controlador.pdb

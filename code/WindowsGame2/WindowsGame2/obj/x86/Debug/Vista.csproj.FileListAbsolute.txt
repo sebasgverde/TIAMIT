@@ -1,0 +1,280 @@
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\imageKrilin.xnb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\imgres.xnb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\fuente.xnb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Notas\eighth.xnb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Notas\half.xnb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Notas\quarter.xnb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Notas\whole.xnb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Notas\16th.xnb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe.config
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Controlador.dll
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Frecuencias.dll
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Modelo.dll
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\SelectDevice.exe
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\SoundCapture.dll
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\xml.exe
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\SoundAnalysis.dll
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Controlador.pdb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Frecuencias.pdb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Modelo.pdb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\SelectDevice.pdb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\xml.pdb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\SoundCapture.pdb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\SoundAnalysis.pdb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\Vista.SamegMainForm.resources
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Fondo.xnb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\redB.xnb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\redA.xnb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\imageKrilin.xnb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\imgres.xnb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Notas\eighth.xnb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Notas\half.xnb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Notas\quarter.xnb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Notas\whole.xnb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Notas\16th.xnb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Fondo.xnb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\redB.xnb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\redA.xnb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\fuente.xnb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe.config
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Controlador.dll
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Frecuencias.dll
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Modelo.dll
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\SelectDevice.exe
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\SoundCapture.dll
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\xml.exe
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\SoundAnalysis.dll
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.DirectX.dll
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Controlador.pdb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Frecuencias.pdb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Modelo.pdb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\SelectDevice.pdb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\xml.pdb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\SoundCapture.pdb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\SoundAnalysis.pdb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.DirectX.DirectSound.xml
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.DirectX.xml
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\Vista.SamegMainForm.resources
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\imageKrilin.xnb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\imgres.xnb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Fondo.xnb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\redB.xnb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\redA.xnb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\fuente.xnb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe.config
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\Controlador.dll
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\Frecuencias.dll
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\Modelo.dll
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\SelectDevice.exe
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\SoundCapture.dll
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\SoundAnalysis.dll
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\Controlador.pdb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\Frecuencias.pdb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\Modelo.pdb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\SelectDevice.pdb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\SoundCapture.pdb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\SoundAnalysis.pdb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\obj\x86\Debug\Vista.SamegMainForm.resources
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\obj\x86\Debug\Vista.validUsurForm.resources
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\SamegDAO.dll
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\AccesoBD.dll
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\ConexionBD.dll
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\SamegDAO.pdb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\AccesoBD.pdb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\ConexionBD.pdb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\obj\x86\Debug\Vista.samegRankingForm.resources
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\imageKrilin.xnb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\imgres.xnb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Notas\eighth.xnb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Notas\half.xnb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Notas\quarter.xnb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Notas\whole.xnb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Notas\16th.xnb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Fondo.xnb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\redB.xnb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\redA.xnb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\fuente.xnb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe.config
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\Controlador.dll
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\Frecuencias.dll
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\Modelo.dll
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\SamegDAO.dll
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\SelectDevice.exe
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\SoundCapture.dll
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\SoundAnalysis.dll
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\AccesoBD.dll
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.DirectX.DirectSound.dll
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\ConexionBD.dll
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.DirectX.dll
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\Controlador.pdb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\Frecuencias.pdb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\Modelo.pdb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\SamegDAO.pdb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\SelectDevice.pdb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\SoundCapture.pdb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\SoundAnalysis.pdb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\AccesoBD.pdb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.DirectX.DirectSound.xml
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\ConexionBD.pdb
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\bin\x86\Debug\Microsoft.DirectX.xml
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\obj\x86\Debug\Vista.samegRankingForm.resources
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\obj\x86\Debug\Vista.validUsurForm.resources
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\obj\x86\Debug\Vista.SamegMainForm.resources
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2 - copia (5)\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\imageKrilin.xnb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\imgres.xnb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Fondo.xnb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\redB.xnb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\redA.xnb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\fuente.xnb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe.config
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Controlador.dll
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Frecuencias.dll
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Modelo.dll
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\SamegDAO.dll
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\SelectDevice.exe
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\SoundCapture.dll
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\SoundAnalysis.dll
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\AccesoBD.dll
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\ConexionBD.dll
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Controlador.pdb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Frecuencias.pdb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Modelo.pdb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\SamegDAO.pdb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\SelectDevice.pdb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\SoundCapture.pdb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\SoundAnalysis.pdb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\AccesoBD.pdb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\ConexionBD.pdb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\SAMEG\WindowsGame2\WindowsGame2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\SAMEG\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\SAMEG\WindowsGame2\WindowsGame2\obj\x86\Debug\Vista.samegRankingForm.resources
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\SAMEG\WindowsGame2\WindowsGame2\obj\x86\Debug\Vista.validUsurForm.resources
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\SAMEG\WindowsGame2\WindowsGame2\obj\x86\Debug\Vista.SamegMainForm.resources
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\SAMEG\WindowsGame2\WindowsGame2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\SAMEG\WindowsGame2\WindowsGame2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\SAMEG\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\SAMEG\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Notas\16th.xnb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Notas\eighth.xnb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Notas\half.xnb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Notas\quarter.xnb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Notas\whole.xnb
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\imageKrilin.xnb
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\imgres.xnb
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Fondo.xnb
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\redB.xnb
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\redA.xnb
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Notas\16th.xnb
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Notas\eighth.xnb
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Notas\half.xnb
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Notas\quarter.xnb
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Notas\whole.xnb
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\fuente.xnb
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe.config
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Controlador.dll
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Frecuencias.dll
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Modelo.dll
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\SamegDAO.dll
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\SelectDevice.exe
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\SoundCapture.dll
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\SoundAnalysis.dll
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\AccesoBD.dll
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\ConexionBD.dll
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Controlador.pdb
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Frecuencias.pdb
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Modelo.pdb
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\SamegDAO.pdb
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\SelectDevice.pdb
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\SoundCapture.pdb
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\SoundAnalysis.pdb
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\AccesoBD.pdb
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\ConexionBD.pdb
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\obj\x86\Debug\Vista.samegRankingForm.resources
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\obj\x86\Debug\Vista.validUsurForm.resources
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\obj\x86\Debug\Vista.SamegMainForm.resources
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\obj\x86\Debug\Vista.registUsurForm.resources
+C:\Users\DELL\Dropbox\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\imageKrilin.xnb
+C:\Users\DELL\Dropbox\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\imgres.xnb
+C:\Users\DELL\Dropbox\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Fondo.xnb
+C:\Users\DELL\Dropbox\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\redB.xnb
+C:\Users\DELL\Dropbox\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\redA.xnb
+C:\Users\DELL\Dropbox\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Notas\16th.xnb
+C:\Users\DELL\Dropbox\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Notas\eighth.xnb
+C:\Users\DELL\Dropbox\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Notas\half.xnb
+C:\Users\DELL\Dropbox\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Notas\quarter.xnb
+C:\Users\DELL\Dropbox\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Notas\whole.xnb
+C:\Users\DELL\Dropbox\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\fuente.xnb
+C:\Users\DELL\Dropbox\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe.config
+C:\Users\DELL\Dropbox\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+C:\Users\DELL\Dropbox\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+C:\Users\DELL\Dropbox\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\WindowsGame2\WindowsGame2\bin\x86\Debug\Controlador.dll
+C:\Users\DELL\Dropbox\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\WindowsGame2\WindowsGame2\bin\x86\Debug\Frecuencias.dll
+C:\Users\DELL\Dropbox\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\WindowsGame2\WindowsGame2\bin\x86\Debug\Modelo.dll
+C:\Users\DELL\Dropbox\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\WindowsGame2\WindowsGame2\bin\x86\Debug\SamegDAO.dll
+C:\Users\DELL\Dropbox\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\WindowsGame2\WindowsGame2\bin\x86\Debug\SelectDevice.exe
+C:\Users\DELL\Dropbox\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\WindowsGame2\WindowsGame2\bin\x86\Debug\SoundCapture.dll
+C:\Users\DELL\Dropbox\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\WindowsGame2\WindowsGame2\bin\x86\Debug\SoundAnalysis.dll
+C:\Users\DELL\Dropbox\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\WindowsGame2\WindowsGame2\bin\x86\Debug\AccesoBD.dll
+C:\Users\DELL\Dropbox\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\WindowsGame2\WindowsGame2\bin\x86\Debug\ConexionBD.dll
+C:\Users\DELL\Dropbox\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\WindowsGame2\WindowsGame2\bin\x86\Debug\Controlador.pdb
+C:\Users\DELL\Dropbox\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\WindowsGame2\WindowsGame2\bin\x86\Debug\Frecuencias.pdb
+C:\Users\DELL\Dropbox\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\WindowsGame2\WindowsGame2\bin\x86\Debug\Modelo.pdb
+C:\Users\DELL\Dropbox\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\WindowsGame2\WindowsGame2\bin\x86\Debug\SamegDAO.pdb
+C:\Users\DELL\Dropbox\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\WindowsGame2\WindowsGame2\bin\x86\Debug\SelectDevice.pdb
+C:\Users\DELL\Dropbox\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\WindowsGame2\WindowsGame2\bin\x86\Debug\SoundCapture.pdb
+C:\Users\DELL\Dropbox\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\WindowsGame2\WindowsGame2\bin\x86\Debug\SoundAnalysis.pdb
+C:\Users\DELL\Dropbox\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\WindowsGame2\WindowsGame2\bin\x86\Debug\AccesoBD.pdb
+C:\Users\DELL\Dropbox\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\WindowsGame2\WindowsGame2\bin\x86\Debug\ConexionBD.pdb
+C:\Users\DELL\Dropbox\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\WindowsGame2\WindowsGame2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DELL\Dropbox\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\DELL\Dropbox\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\WindowsGame2\WindowsGame2\obj\x86\Debug\Vista.registUsurForm.resources
+C:\Users\DELL\Dropbox\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\WindowsGame2\WindowsGame2\obj\x86\Debug\Vista.samegRankingForm.resources
+C:\Users\DELL\Dropbox\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\WindowsGame2\WindowsGame2\obj\x86\Debug\Vista.validUsurForm.resources
+C:\Users\DELL\Dropbox\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\WindowsGame2\WindowsGame2\obj\x86\Debug\Vista.SamegMainForm.resources
+C:\Users\DELL\Dropbox\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\WindowsGame2\WindowsGame2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\DELL\Dropbox\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\WindowsGame2\WindowsGame2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DELL\Dropbox\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+C:\Users\DELL\Dropbox\(5) quinto semestre\proyecto integrador 1\SAMEG\SAMEG(usadoEnExpoFinal)\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb

@@ -1,0 +1,7 @@
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\AccesoBD\bin\Debug\AccesoBD.dll
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\AccesoBD\bin\Debug\AccesoBD.pdb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\AccesoBD\bin\Debug\ConexionBD.dll
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\AccesoBD\bin\Debug\ConexionBD.pdb
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\AccesoBD\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\AccesoBD\obj\Debug\AccesoBD.dll
+C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\AccesoBD\obj\Debug\AccesoBD.pdb

@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>images.jpg</Source>
+      <Name>imageKrilin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\imageKrilin.xnb</Output>
+      <Time>2012-09-13T14:01:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>imgres.jpg</Source>
+      <Name>imgres</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\imgres.xnb</Output>
+      <Time>2012-09-13T14:36:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fondo.png</Source>
+      <Name>Fondo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Fondo.xnb</Output>
+      <Time>2012-11-09T22:38:11-05:00</Time>
+    </Item>
+    <Item>
+      <Source>redB.png</Source>
+      <Name>redB</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\redB.xnb</Output>
+      <Time>2012-10-30T18:12:43-05:00</Time>
+    </Item>
+    <Item>
+      <Source>redA.png</Source>
+      <Name>redA</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\redA.xnb</Output>
+      <Time>2012-10-30T18:12:59-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Notas\16th.png</Source>
+      <Name>Notas\16th</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Notas\16th.xnb</Output>
+      <Time>2012-11-20T12:50:34.5732144-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Notas\eighth.png</Source>
+      <Name>Notas\eighth</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Notas\eighth.xnb</Output>
+      <Time>2012-11-20T12:55:17.2803843-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Notas\half.png</Source>
+      <Name>Notas\half</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Notas\half.xnb</Output>
+      <Time>2012-11-20T12:57:28.0588644-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Notas\quarter.png</Source>
+      <Name>Notas\quarter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Notas\quarter.xnb</Output>
+      <Time>2012-11-20T12:58:29.2393637-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Notas\whole.png</Source>
+      <Name>Notas\whole</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Notas\whole.xnb</Output>
+      <Time>2012-11-20T13:00:42.7760016-05:00</Time>
+    </Item>
+    <Item>
+      <Source>fuente.spritefont</Source>
+      <Name>fuente</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\fuente.xnb</Output>
+      <Time>2012-09-22T23:47:12-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{2D355572-357B-4909-A3B9-605939F7D74D}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Luis Fernando\Dropbox\Nueva carpeta (1)\SAMEG\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-08-21T18:53:26.320065-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

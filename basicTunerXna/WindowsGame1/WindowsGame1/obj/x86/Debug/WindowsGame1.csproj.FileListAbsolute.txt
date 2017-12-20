@@ -1,0 +1,8 @@
+D:\bitbucket\guitartrainer\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\font.xnb
+D:\bitbucket\guitartrainer\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+D:\bitbucket\guitartrainer\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+D:\bitbucket\guitartrainer\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\SoundAnalysis.dll
+D:\bitbucket\guitartrainer\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\SoundAnalysis.pdb
+D:\bitbucket\guitartrainer\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\bitbucket\guitartrainer\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+D:\bitbucket\guitartrainer\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
