@@ -1,9 +1,16 @@
 # TIAMIT 
 TIAMIT Is Another Musical Instrument Trainer
 
-loader lock exception for select divice:
 
-you need to go to menu Debug -> Exceptions, open the Managed Debugging Assistants, find LoaderLock and uncheck
+Demo of Intruments:
+
+Guitar
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/frhorIqbi4A/0.jpg)](https://www.youtube.com/watch?v=frhorIqbi4A)
+
+E Diatonic Harmonica
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Uaji56TpZcw/0.jpg)](https://www.youtube.com/watch?v=Uaji56TpZcw)
 
 
 In this project C4 is considered as central c (Acoustical Society of America (ASA) ) for the frequency detector
