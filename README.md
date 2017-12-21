@@ -1,4 +1,4 @@
-TIAMIT,  is an open source project to learn to read music with different insturments using gamefication. It is based in tha idea of visual memory, the user will see the notes in the music sheet and the positions where these notes are in the insturment, a sound capture and analysis module will check the notes played giving a final score of the performance. It also has a database engine where different users can be ranked and see their performances. 
+TIAMIT,  is an open source project to learn to read music with different instruments using gamefication. It is based in the idea of visual memory, the user will see the notes in the music sheet and the positions where these notes are in the instrument, a sound capture and analysis module will check the notes played giving a final score of the performance. It also has a database engine where different users can be ranked and see their performances. 
 
 # Demo of Instruments:
 
