@@ -10,6 +10,10 @@ using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
 using FftGuitarTuner;
 
+///////////////////////////////////////////////////////////
+//  Original author: sebastian
+///////////////////////////////////////////////////////////
+
 namespace WindowsGame1
 {
     /// <summary>

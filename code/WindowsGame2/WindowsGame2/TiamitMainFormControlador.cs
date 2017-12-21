@@ -12,7 +12,9 @@ using TiamitDAO;
 
 namespace Vista
 {
-   
+    ///////////////////////////////////////////////////////////
+    //  Original author: sebastian
+    ///////////////////////////////////////////////////////////
     class TiamitMainFormControlador
     {
         validUserForm valiUsu;

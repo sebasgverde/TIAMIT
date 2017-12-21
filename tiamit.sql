@@ -1,3 +1,6 @@
+--
+-- Original author: sebastian
+--
 
 CREATE DATABASE TIAMIT
 USE TIAMIT

@@ -49,19 +49,19 @@ namespace Vista
             pais = comboBox1.SelectedIndex + 1;
 
             if(usuario == "" || usuario == null ){ //poner mensaje de error usuario vacio y parar la ejecucion 
-                MessageBox.Show("Nombre de usuario invalido, intente nuevamente");
+                MessageBox.Show("Wrong user name, try again");
                 return;
             }
             if (contraseña == "" || contraseña == null) { // Poner menjase de error contraseña vacia y para ejecucion 
-                MessageBox.Show("Contraseña invalida, intente nuevamente");
+                MessageBox.Show("Wrong password, try again");
                 return;
             }
             if (contraseña != textBox3.Text) { // Poner mensaje de error "las contraseñas no coinciden" 
-                MessageBox.Show("Las contraseñas no coinciden, intente nuevamente");
+                MessageBox.Show("Passwords don't match, try again");
                 return;
             }
             if (pais < 1) { // Poner mensaje de error falta escoger pais y parar ejecucion
-                MessageBox.Show("Por favor escoga su pais de origen");
+                MessageBox.Show("Please choose a country");
                 return;
             }
 
@@ -71,11 +71,11 @@ namespace Vista
             {
                 usudao.insertNewUser(pais);
                 user = usudao.crearUsuario();
-                MessageBox.Show("usuario ingresado");
+                MessageBox.Show("User created");
                 this.DialogResult = DialogResult.OK;
             }
             else
-                MessageBox.Show("Elija otro nombre");
+                MessageBox.Show("Choose other name");
 
         }
 
