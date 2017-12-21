@@ -1,5 +1,0 @@
-C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\ConexionBD\bin\Debug\ConexionBD.dll
-C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\ConexionBD\bin\Debug\ConexionBD.pdb
-C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\ConexionBD\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\ConexionBD\obj\Debug\ConexionBD.dll
-C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\ConexionBD\obj\Debug\ConexionBD.pdb

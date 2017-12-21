@@ -1,4 +1,0 @@
-c:\users\dell\documents\visual studio 2010\Projects\WindowsGame2\WindowsGame2\WindowsGame2Content\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\sebastian\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2Content\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\sebas\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2Content\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\DELL\Dropbox\eafit\proyecto integrador 1\SAMEG\WindowsGame2\WindowsGame2\WindowsGame2Content\obj\x86\Debug\ResolveAssemblyReference.cache
