@@ -1,14 +1,19 @@
-TIAMIT,  is an open source project to learn to read music with different instruments using gamefication. It is based in the idea of visual memory, the user will see the notes in the music sheet and the positions where these notes are in the instrument, a sound capture and analysis module will check the notes played giving a final score of the performance. It also has a database engine where different users can be ranked and see their performances. 
+TIAMIT,  is an open source project to learn to read music with different insturments using gamefication. It is based in tha idea of visual memory, the user will see the notes in the music sheet and the positions where these notes are in the insturment, a sound capture and analysis module will check the notes played giving a final score of the performance. It also has a database engine where different users can be ranked and see their performances. 
 
 # Demo of Instruments:
 
-Guitar
+## Guitar
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/frhorIqbi4A/0.jpg)](https://www.youtube.com/watch?v=frhorIqbi4A)
 
-E Diatonic Harmonica
+## E Diatonic Harmonica
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Uaji56TpZcw/0.jpg)](https://www.youtube.com/watch?v=Uaji56TpZcw)
+
+## Alto C Ocarina 
+Note: My ocarina is not very professional (and not very tuned :p ) so it doesn't get the notes very well but it gives an idea of hot it looks.
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/yVVvrlDUEjs/0.jpg)](https://www.youtube.com/watch?v=yVVvrlDUEjs)
 
 # General Demo
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ABoe32i46O4/0.jpg)](https://www.youtube.com/watch?v=ABoe32i46O4)
@@ -143,7 +148,7 @@ G5	<posSheet>303</posSheet>
 - It could be interesting in order of add instruments easily, to put the seeht positions in an indepent xml that corresponds exact with the ASA notation (C4 261 Hz), and in the postion instruments xml put the information about the transposition
 - After finish a lesson it should return to form but close (when you close the lesson it works)
 - When adding insturments one have to put the list in many parts in code, could be good to have a central way to do it
-
+- Improve the visual art in general (I did it all myself XDXDXD)
 
 
 
