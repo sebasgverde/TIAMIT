@@ -111,6 +111,11 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
+    <Compile Include="BackgroundGameOcarinaAltoC.png">
+      <Name>BackgroundGameOcarinaAltoC</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
     <Content Include="metaData\notesPositions.xml">
       <Name>notesPositions</Name>
       <Importer>XmlImporter</Importer>
@@ -125,6 +130,12 @@
     </Content>
     <Content Include="metaData\notesPositionsGuitar.xml">
       <Name>notesPositionsGuitar</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="metaData\notesPositionsOcarinaAltoC.xml">
+      <Name>notesPositionsOcarinaAltoC</Name>
       <Importer>XmlImporter</Importer>
       <Processor>PassThroughProcessor</Processor>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>

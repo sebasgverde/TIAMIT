@@ -88,6 +88,9 @@ namespace Controlador
                 case "diatonicHarmonicaE":
                     instrumentXml = "notesPositionsDiatonicHarmonicaE";
                     break;
+                case "OcarinaAltoC":
+                    instrumentXml = "notesPositionsOcarinaAltoC";
+                    break;
                 default: //guitar
                     instrumentXml = "notesPositionsGuitar";
                     break;

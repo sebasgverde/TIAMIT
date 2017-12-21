@@ -33,6 +33,7 @@ namespace Vista
             listBox1.Items.Add("Esperanza");
             comboBox2.Items.Add("Guitar");
             comboBox2.Items.Add("diatonicHarmonicaE");
+            comboBox2.Items.Add("OcarinaAltoC");
 
             comboBox2.SelectedIndex = comboBox2.FindStringExact("Guitar"); // default
             marcadorCancionElegida = 4;

@@ -10,8 +10,8 @@ Original Autor: Sebastian Garcia Valencia
 	<name>E3</name>
 	   <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>576</posx>
+                 <posy>172</posy>
                </pos>
 			   <posSheet>402</posSheet>
        </positions>
@@ -20,8 +20,8 @@ Original Autor: Sebastian Garcia Valencia
 	<name>F3</name>
 	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>576</posx>
+                 <posy>172</posy>
                </pos>
 			   <posSheet>402</posSheet>
         </positions>
@@ -30,8 +30,8 @@ Original Autor: Sebastian Garcia Valencia
 	<name>F#3</name>
 	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>576</posx>
+                 <posy>172</posy>
                </pos>		  
 			   <posSheet>402</posSheet>
         </positions>
@@ -40,8 +40,8 @@ Original Autor: Sebastian Garcia Valencia
 	<name>G3</name>
 	   <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>576</posx>
+                 <posy>172</posy>
                </pos>
 			  <posSheet>402</posSheet>	
        </positions>
@@ -50,8 +50,8 @@ Original Autor: Sebastian Garcia Valencia
 	<name>G#3</name>
 	   <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>576</posx>
+                 <posy>172</posy>
                </pos>
                <posSheet>402</posSheet>	
        </positions>
@@ -60,8 +60,30 @@ Original Autor: Sebastian Garcia Valencia
 	<name>A3</name>
 	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>264</posx>
+                 <posy>33</posy>
+				 <posx>251</posx>
+                 <posy>171</posy>
+				 <posx>311</posx>
+                 <posy>36</posy>
+				 <posx>316</posx>
+                 <posy>60</posy>
+				 <posx>356</posx>
+                 <posy>28</posy>
+				 <posx>402</posx>
+                 <posy>12</posy>
+				 <posx>423</posx>
+                 <posy>63</posy>
+				 <posx>425</posx>
+                 <posy>168</posy>
+				 <posx>454</posx>
+                 <posy>23</posy>
+				 <posx>466</posx>
+                 <posy>38</posy>
+				 <posx>524</posx>
+                 <posy>26</posy>
+				 <posx>581</posx>
+                 <posy>21</posy>
                </pos>
 			   <posSheet>402</posSheet>
             </positions>
@@ -70,8 +92,28 @@ Original Autor: Sebastian Garcia Valencia
 	<name>A#3</name>
 	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>264</posx>
+                 <posy>33</posy>
+				 <posx>251</posx>
+                 <posy>171</posy>
+				 <posx>311</posx>
+                 <posy>36</posy>
+				 <posx>316</posx>
+                 <posy>60</posy>
+				 <posx>356</posx>
+                 <posy>28</posy>
+				 <posx>402</posx>
+                 <posy>12</posy>
+				 <posx>423</posx>
+                 <posy>63</posy>
+				 <posx>425</posx>
+                 <posy>168</posy>
+				 <posx>466</posx>
+                 <posy>38</posy>
+				 <posx>524</posx>
+                 <posy>26</posy>
+				 <posx>581</posx>
+                 <posy>21</posy>
                </pos>	
 			   <posSheet>402</posSheet>			   
         </positions>
@@ -80,8 +122,28 @@ Original Autor: Sebastian Garcia Valencia
 	<name>B3</name>
 	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>264</posx>
+                 <posy>33</posy>
+				 <posx>251</posx>
+                 <posy>171</posy>
+				 <posx>311</posx>
+                 <posy>36</posy>
+				 <posx>356</posx>
+                 <posy>28</posy>
+				 <posx>402</posx>
+                 <posy>12</posy>
+				 <posx>423</posx>
+                 <posy>63</posy>
+				 <posx>425</posx>
+                 <posy>168</posy>
+				 <posx>454</posx>
+                 <posy>23</posy>
+				 <posx>466</posx>
+                 <posy>38</posy>
+				 <posx>524</posx>
+                 <posy>26</posy>
+				 <posx>581</posx>
+                 <posy>21</posy>
                </pos>
 			   <posSheet>402</posSheet>		   
         </positions>
@@ -90,8 +152,26 @@ Original Autor: Sebastian Garcia Valencia
 	<name>C4</name>
 	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>264</posx>
+                 <posy>33</posy>
+				 <posx>251</posx>
+                 <posy>171</posy>
+				 <posx>311</posx>
+                 <posy>36</posy>
+				 <posx>356</posx>
+                 <posy>28</posy>
+				 <posx>402</posx>
+                 <posy>12</posy>
+				 <posx>423</posx>
+                 <posy>63</posy>
+				 <posx>425</posx>
+                 <posy>168</posy>
+				 <posx>466</posx>
+                 <posy>38</posy>
+				 <posx>524</posx>
+                 <posy>26</posy>
+				 <posx>581</posx>
+                 <posy>21</posy>
                </pos>
 			   <posSheet>402</posSheet>	
         </positions>
@@ -100,8 +180,26 @@ Original Autor: Sebastian Garcia Valencia
 	<name>C#4</name>
 	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>264</posx>
+                 <posy>33</posy>
+				 <posx>251</posx>
+                 <posy>171</posy>
+				 <posx>311</posx>
+                 <posy>36</posy>
+				 <posx>356</posx>
+                 <posy>28</posy>
+				 <posx>402</posx>
+                 <posy>12</posy>
+				 <posx>423</posx>
+                 <posy>63</posy>
+				 <posx>425</posx>
+                 <posy>168</posy>
+				 <posx>454</posx>
+                 <posy>23</posy>
+				 <posx>466</posx>
+                 <posy>38</posy>
+				 <posx>524</posx>
+                 <posy>26</posy>
                </pos>
 			  <posSheet>402</posSheet>			  			  
         </positions>
@@ -110,8 +208,24 @@ Original Autor: Sebastian Garcia Valencia
 	<name>D4</name>
 	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>264</posx>
+                 <posy>33</posy>
+				 <posx>251</posx>
+                 <posy>171</posy>
+				 <posx>311</posx>
+                 <posy>36</posy>
+				 <posx>356</posx>
+                 <posy>28</posy>
+				 <posx>402</posx>
+                 <posy>12</posy>
+				 <posx>423</posx>
+                 <posy>63</posy>
+				 <posx>425</posx>
+                 <posy>168</posy>
+				 <posx>466</posx>
+                 <posy>38</posy>
+				 <posx>524</posx>
+                 <posy>26</posy>
                </pos>		   
 			   <posSheet>402</posSheet>
         </positions>
@@ -120,8 +234,24 @@ Original Autor: Sebastian Garcia Valencia
 	<name>D#4</name>
 	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>264</posx>
+                 <posy>33</posy>
+				 <posx>251</posx>
+                 <posy>171</posy>
+				 <posx>311</posx>
+                 <posy>36</posy>
+				 <posx>356</posx>
+                 <posy>28</posy>
+				 <posx>402</posx>
+                 <posy>12</posy>
+				 <posx>423</posx>
+                 <posy>63</posy>
+				 <posx>425</posx>
+                 <posy>168</posy>
+				 <posx>454</posx>
+                 <posy>23</posy>
+				 <posx>466</posx>
+                 <posy>38</posy>
                </pos>			  
 			  <posSheet>402</posSheet>
         </positions>
@@ -130,8 +260,22 @@ Original Autor: Sebastian Garcia Valencia
 	<name>E4</name>
 	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>264</posx>
+                 <posy>33</posy>
+				 <posx>251</posx>
+                 <posy>171</posy>
+				 <posx>311</posx>
+                 <posy>36</posy>
+				 <posx>356</posx>
+                 <posy>28</posy>
+				 <posx>402</posx>
+                 <posy>12</posy>
+				 <posx>423</posx>
+                 <posy>63</posy>
+				 <posx>425</posx>
+                 <posy>168</posy>
+				 <posx>466</posx>
+                 <posy>38</posy>
                </pos> 
 			   <posSheet>393</posSheet>
             </positions>
@@ -140,8 +284,20 @@ Original Autor: Sebastian Garcia Valencia
 	<name>F4</name>
 	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>264</posx>
+                 <posy>33</posy>
+				 <posx>251</posx>
+                 <posy>171</posy>
+				 <posx>311</posx>
+                 <posy>36</posy>
+				 <posx>356</posx>
+                 <posy>28</posy>
+				 <posx>402</posx>
+                 <posy>12</posy>
+				 <posx>423</posx>
+                 <posy>63</posy>
+				 <posx>425</posx>
+                 <posy>168</posy>
                </pos>		  
 			   <posSheet>383</posSheet>
         </positions>
@@ -150,8 +306,20 @@ Original Autor: Sebastian Garcia Valencia
 	<name>F#4</name>
 	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>264</posx>
+                 <posy>33</posy>
+				 <posx>251</posx>
+                 <posy>171</posy>
+				 <posx>311</posx>
+                 <posy>36</posy>
+				 <posx>356</posx>
+                 <posy>28</posy>
+				 <posx>402</posx>
+                 <posy>12</posy>
+				 <posx>425</posx>
+                 <posy>168</posy>
+				 <posx>524</posx>
+                 <posy>26</posy>
                </pos>
                <posSheet>383</posSheet>			   
         </positions>
@@ -160,8 +328,18 @@ Original Autor: Sebastian Garcia Valencia
 	<name>G4</name>
 	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>264</posx>
+                 <posy>33</posy>
+				 <posx>251</posx>
+                 <posy>171</posy>
+				 <posx>311</posx>
+                 <posy>36</posy>
+				 <posx>356</posx>
+                 <posy>28</posy>
+				 <posx>402</posx>
+                 <posy>12</posy>
+				 <posx>425</posx>
+                 <posy>168</posy>
                </pos>
 			   <posSheet>373</posSheet>
         </positions>
@@ -170,8 +348,18 @@ Original Autor: Sebastian Garcia Valencia
 	<name>G#4</name>
 	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>264</posx>
+                 <posy>33</posy>
+				 <posx>251</posx>
+                 <posy>171</posy>
+				 <posx>311</posx>
+                 <posy>36</posy>
+				 <posx>402</posx>
+                 <posy>12</posy>
+				 <posx>425</posx>
+                 <posy>168</posy>
+				 <posx>524</posx>
+                 <posy>26</posy>				 
                </pos>	  
 			   <posSheet>373</posSheet>
         </positions>
@@ -180,8 +368,16 @@ Original Autor: Sebastian Garcia Valencia
 	<name>A4</name>
 	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>264</posx>
+                 <posy>33</posy>
+				 <posx>251</posx>
+                 <posy>171</posy>
+				 <posx>311</posx>
+                 <posy>36</posy>
+				 <posx>402</posx>
+                 <posy>12</posy>
+				 <posx>425</posx>
+                 <posy>168</posy>
                </pos>
                <posSheet>363</posSheet>			   
         </positions>
@@ -190,8 +386,16 @@ Original Autor: Sebastian Garcia Valencia
 	<name>A#4</name>
 	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>264</posx>
+                 <posy>33</posy>
+				 <posx>251</posx>
+                 <posy>171</posy>
+				 <posx>402</posx>
+                 <posy>12</posy>
+				 <posx>425</posx>
+                 <posy>168</posy>
+				 <posx>524</posx>
+                 <posy>26</posy>
                </pos>
 			   <posSheet>363</posSheet>	
         </positions>
@@ -200,8 +404,14 @@ Original Autor: Sebastian Garcia Valencia
 	<name>B4</name>
 	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>264</posx>
+                 <posy>33</posy>
+				 <posx>251</posx>
+                 <posy>171</posy>
+				 <posx>402</posx>
+                 <posy>12</posy>
+				 <posx>425</posx>
+                 <posy>168</posy>
                </pos>
 			   <posSheet>352</posSheet>
         </positions>
@@ -210,8 +420,12 @@ Original Autor: Sebastian Garcia Valencia
 	<name>C5</name>
 	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+				 <posx>251</posx>
+                 <posy>171</posy>
+				 <posx>402</posx>
+                 <posy>12</posy>
+				 <posx>425</posx>
+                 <posy>168</posy>
                </pos>		  
 			  <posSheet>343</posSheet>
         </positions>
@@ -220,8 +434,12 @@ Original Autor: Sebastian Garcia Valencia
 	<name>C#5</name>
 		<positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+				 <posx>402</posx>
+                 <posy>12</posy>
+				 <posx>425</posx>
+                 <posy>168</posy>
+				 <posx>524</posx>
+                 <posy>26</posy>
                </pos>
                 <posSheet>343</posSheet> 				
     	</positions>
@@ -230,8 +448,10 @@ Original Autor: Sebastian Garcia Valencia
 	<name>D5</name>
    	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+				 <posx>402</posx>
+                 <posy>12</posy>
+				 <posx>425</posx>
+                 <posy>168</posy>
                </pos>
                <posSheet>332</posSheet>			   
     	</positions>
@@ -240,8 +460,10 @@ Original Autor: Sebastian Garcia Valencia
 	<name>D#5</name>
 	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+				 <posx>402</posx>
+                 <posy>12</posy>
+				 <posx>524</posx>
+                 <posy>26</posy>
                </pos>
                <posSheet>332</posSheet>			   
         </positions>
@@ -250,8 +472,8 @@ Original Autor: Sebastian Garcia Valencia
 	<name>E5</name>
 	   <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+				 <posx>402</posx>
+                 <posy>12</posy>
                </pos>
 			  <posSheet>321</posSheet>
        </positions>
@@ -260,8 +482,6 @@ Original Autor: Sebastian Garcia Valencia
 	<name>F5</name>
 	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
                </pos>
 			   <posSheet>310</posSheet>
         </positions>
@@ -270,8 +490,8 @@ Original Autor: Sebastian Garcia Valencia
 	<name>F#5</name>
 	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>576</posx>
+                 <posy>172</posy>
                </pos>
 			   <posSheet>310</posSheet>
         </positions>
@@ -280,8 +500,8 @@ Original Autor: Sebastian Garcia Valencia
 	<name>G5</name>
 	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>576</posx>
+                 <posy>172</posy>
                </pos>
                <posSheet>303</posSheet>			   
         </positions>
@@ -290,8 +510,8 @@ Original Autor: Sebastian Garcia Valencia
 	<name>G#5</name>
 	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>576</posx>
+                 <posy>172</posy>
                </pos>		  
 			   <posSheet>303</posSheet>
         </positions>
@@ -300,8 +520,8 @@ Original Autor: Sebastian Garcia Valencia
 	<name>A5</name>
 	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>576</posx>
+                 <posy>172</posy>
                </pos>		  
 			   <posSheet>303</posSheet>
         </positions>
@@ -310,8 +530,8 @@ Original Autor: Sebastian Garcia Valencia
 	<name>A#5</name>
 	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>576</posx>
+                 <posy>172</posy>
                </pos>		   
                <posSheet>303</posSheet>			   
         </positions>
@@ -320,8 +540,8 @@ Original Autor: Sebastian Garcia Valencia
 	<name>B5</name>
 	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>576</posx>
+                 <posy>172</posy>
                </pos>
                <posSheet>303</posSheet>			   
         </positions>
@@ -330,8 +550,8 @@ Original Autor: Sebastian Garcia Valencia
 	<name>C6</name>
 	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>576</posx>
+                 <posy>172</posy>
                </pos>
                <posSheet>303</posSheet>			   
         </positions>
@@ -340,8 +560,8 @@ Original Autor: Sebastian Garcia Valencia
 	<name>C#6</name>
 	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>576</posx>
+                 <posy>172</posy>
                </pos>	  
 			   <posSheet>303</posSheet>
         </positions>
@@ -350,8 +570,8 @@ Original Autor: Sebastian Garcia Valencia
 	<name>D6</name>
 	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>576</posx>
+                 <posy>172</posy>
                </pos>
                <posSheet>303</posSheet>  			   
         </positions>
@@ -360,8 +580,8 @@ Original Autor: Sebastian Garcia Valencia
 	<name>D#6</name>
 	    <positions>	
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>576</posx>
+                 <posy>172</posy>
                </pos>
                <posSheet>303</posSheet> 			   
         </positions>
@@ -370,8 +590,8 @@ Original Autor: Sebastian Garcia Valencia
 	<name>E6</name>
    	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>576</posx>
+                 <posy>172</posy>
                </pos>
                <posSheet>303</posSheet>			   
     	</positions>
@@ -380,8 +600,8 @@ Original Autor: Sebastian Garcia Valencia
 	<name>F6</name>
    	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>576</posx>
+                 <posy>172</posy>
                </pos>		   
 			   <posSheet>303</posSheet>
     	</positions>
@@ -390,8 +610,8 @@ Original Autor: Sebastian Garcia Valencia
 	<name>F#6</name>
    	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>576</posx>
+                 <posy>172</posy>
                </pos>			   
 			   <posSheet>303</posSheet>
     	</positions>
@@ -400,8 +620,8 @@ Original Autor: Sebastian Garcia Valencia
     <name>G6</name>
    	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>576</posx>
+                 <posy>172</posy>
                </pos>
                <posSheet>303</posSheet>			   
     	</positions>
@@ -410,8 +630,8 @@ Original Autor: Sebastian Garcia Valencia
     <name>G#6</name>
    	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>576</posx>
+                 <posy>172</posy>
                </pos>
                <posSheet>303</posSheet>			   
     	</positions>
@@ -420,8 +640,8 @@ Original Autor: Sebastian Garcia Valencia
     <name>A6</name>
    	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>576</posx>
+                 <posy>172</posy>
                </pos>
                <posSheet>303</posSheet>			   
     	</positions>
@@ -430,8 +650,8 @@ Original Autor: Sebastian Garcia Valencia
     <name>A#6</name>
    	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>576</posx>
+                 <posy>172</posy>
                </pos>
                <posSheet>303</posSheet>		   
     	</positions>
@@ -440,8 +660,8 @@ Original Autor: Sebastian Garcia Valencia
     <name>B6</name>
    	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>576</posx>
+                 <posy>172</posy>
                </pos>
                <posSheet>303</posSheet>			   
     	</positions>
@@ -450,8 +670,8 @@ Original Autor: Sebastian Garcia Valencia
     <name>C7</name>
    	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>576</posx>
+                 <posy>172</posy>
                </pos>	
                <posSheet>303</posSheet>			   
     	</positions>
@@ -460,8 +680,8 @@ Original Autor: Sebastian Garcia Valencia
     <name>C#7</name>
    	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>576</posx>
+                 <posy>172</posy>
                </pos>
                <posSheet>303</posSheet> 			   
     	</positions>
@@ -470,8 +690,8 @@ Original Autor: Sebastian Garcia Valencia
     <name>D7</name>
    	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>576</posx>
+                 <posy>172</posy>
                </pos>
                <posSheet>303</posSheet>			   
     	</positions>
@@ -480,8 +700,8 @@ Original Autor: Sebastian Garcia Valencia
     <name>D#7</name>
    	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>576</posx>
+                 <posy>172</posy>
                </pos>
                <posSheet>303</posSheet> 			   
     	</positions>
@@ -490,8 +710,8 @@ Original Autor: Sebastian Garcia Valencia
     <name>E7</name>
    	    <positions>
                <pos>
-                 <posx>100</posx>
-                 <posy>100</posy>
+                 <posx>576</posx>
+                 <posy>172</posy>
                </pos>
                <posSheet>303</posSheet> 			   
     	</positions>

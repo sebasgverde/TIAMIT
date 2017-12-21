@@ -154,6 +154,9 @@ namespace Vista
                 case "diatonicHarmonicaE":
                     fondoPant = Content.Load<Texture2D>("BackgroundGameDiatonicHarmonicaE");
                     break;
+                case "OcarinaAltoC":
+                    fondoPant = Content.Load<Texture2D>("BackgroundGameOcarinaAltoC");
+                    break;
                 default: //guitar
                     fondoPant = Content.Load<Texture2D>("BackgroundGameGuitar");
                     break;
