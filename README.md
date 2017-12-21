@@ -11,7 +11,7 @@ TIAMIT,  is an open source project to learn to read music with different insturm
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Uaji56TpZcw/0.jpg)](https://www.youtube.com/watch?v=Uaji56TpZcw)
 
 ## Alto C Ocarina 
-Note: My ocarina is not very professional (and not very tuned :p ) so it doesn't get the notes very well but it gives an idea of hot it looks.
+Note: My ocarina is not very professional (and not very tuned :p ) so it doesn't get the notes very well but it gives an idea of how it looks.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/yVVvrlDUEjs/0.jpg)](https://www.youtube.com/watch?v=yVVvrlDUEjs)
 
