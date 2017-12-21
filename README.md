@@ -119,25 +119,25 @@ draw|	F#|	B|	D♯|	F#	|A|	C#|	D♯|	F#|	A|	C#
 
 ### Y positions of fundamental notes in sheet
 
-D4	<posSheet>402</posSheet>
-E4	<posSheet>393</posSheet>		  
-F4	<posSheet>383</posSheet>
-G4	<posSheet>373</posSheet>	
-A4	<posSheet>363</posSheet>	
-B4	<posSheet>352</posSheet>
-C5	<posSheet>343</posSheet>			   
-D5	<posSheet>332</posSheet>		   
-E5	<posSheet>321</posSheet>	
-F5	<posSheet>310</posSheet>			  			  
-G5	<posSheet>303</posSheet>
+- D4	<posSheet>402</posSheet>
+- E4	<posSheet>393</posSheet>		  
+- F4	<posSheet>383</posSheet>
+- G4	<posSheet>373</posSheet>	
+- A4	<posSheet>363</posSheet>	
+- B4	<posSheet>352</posSheet>
+- C5	<posSheet>343</posSheet>			   
+- D5	<posSheet>332</posSheet>		   
+- E5	<posSheet>321</posSheet>	
+- F5	<posSheet>310</posSheet>			  			  
+- G5	<posSheet>303</posSheet>
 
 ### Guitar strings Y positions
-1 20
-2 47
-3 74
-4 108
-5 140
-6 170
+- 1: 20
+- 2: 47
+- 3: 74
+- 4: 108
+- 5: 140
+- 6: 170
 
 
 # Future work and/or Contributors Ideas:
